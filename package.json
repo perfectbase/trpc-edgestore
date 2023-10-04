@@ -9,6 +9,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@edgestore/react": "^0.1.4",
+    "@edgestore/server": "^0.1.4",
     "@t3-oss/env-nextjs": "^0.6.0",
     "@tanstack/react-query": "^4.32.6",
     "@trpc/client": "^10.37.1",
@@ -19,7 +21,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "superjson": "^1.13.1",
-    "zod": "^3.21.4"
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@types/eslint": "^8.44.2",
